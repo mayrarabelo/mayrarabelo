@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at **Magna Sistemas**
-- 🌱 I’m currently learning **Angular and clean code**
+- 🌱 I’m currently learning **React.js and clean code**
 - 😄 Pronouns: She/Her
 
